@@ -2,5 +2,6 @@
 .*_config.json
 .vercel/
 deploy.py
+deploy_github.py
 *.zip
 .DS_Store
