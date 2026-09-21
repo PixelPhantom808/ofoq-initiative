@@ -1,0 +1,6 @@
+# Sensitive configs and deployment scripts
+.*_config.json
+.vercel/
+deploy.py
+*.zip
+.DS_Store
